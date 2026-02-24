@@ -1,4 +1,26 @@
-## Hi there 👋
+## hi I am Zoe :D
+---
+```
+Currently studying "Game technology and Simulation"
+```
+
+**Skills & Languages**
+---
+- English
+- Norwegian
+- Python
+- C#
+- C++
+---
+- Unreal Engine
+- Unity Engine
+---
+- FL Studios
+- Notion
+---
+`I can probably play 3 songs on the guitar unless i have forgotten.`
+
+
 
 <!--
 **potatce/potatce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
