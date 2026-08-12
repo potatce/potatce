@@ -1,7 +1,10 @@
 ## hi I am Zoe :D
 ---
 ```
-Currently studying "Game technology and Simulation"
+2024 Sunnhordland folkehøgskule [Game Design]
+2025 University of Inland [Game Technology and Simulation]
+2026 University of Oslo [Informatics: Design, Use, Interaction]
+
 ```
 
 **Skills & Languages**
@@ -14,6 +17,11 @@ Currently studying "Game technology and Simulation"
 ---
 - Unreal Engine
 - Unity Engine
+---
+
+- Aseprite
+- Blender
+
 ---
 - FL Studios
 - Notion
